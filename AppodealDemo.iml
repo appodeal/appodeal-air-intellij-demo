@@ -30,12 +30,6 @@
         <packaging-air-desktop />
         <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Main-app.xml" package-file-name="Main">
           <files-to-package>
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_close.png" path-in-package="vg_close.png" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_cta.png" path-in-package="vg_cta.png" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_cta_disabled.png" path-in-package="vg_cta_disabled.png" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_mute_off.png" path-in-package="vg_mute_off.png" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_mute_on.png" path-in-package="vg_mute_on.png" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/vg_privacy.png" path-in-package="vg_privacy.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/com" path-in-package="com" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/dex" path-in-package="dex" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/lib/assets/js" path-in-package="js" />
